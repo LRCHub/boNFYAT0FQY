@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I Like It",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2025-12-12T09:16:59.751512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Like It When It's Stormy",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/01_I_Like_It_When_It's_Stormy_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Like It, I Love It",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/02_I_Like_It,_I_Love_It_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Like It Rough",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_I_Like_It_Rough_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "我喜欢(I like it)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/04_我喜欢(I_like_it)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Like It Like That",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/05_I_Like_It_Like_That_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Like It, I Love It",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/06_I_Like_It,_I_Love_It_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Like It",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/07_I_Like_It_Moby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's How I Like It",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/08_That's_How_I_Like_It_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Way I Like It",
+      "artist": "Elastica",
+      "has_synced": false,
+      "path": "select/09_The_Way_I_Like_It_Elastica.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Like It, I Do It",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/10_If_I_Like_It,_I_Do_It_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Like It",
+      "artist": "Cardi B feat. Bad Bunny & J Balvin",
+      "has_synced": false,
+      "path": "select/11_I_Like_It_Cardi_B_feat._Bad_Bunny_&_J_Balvin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Like It",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/12_I_Like_It_Cameo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Like It (with Bad Bunny & J Balvin)",
+      "artist": "Cardi B",
+      "has_synced": true,
+      "path": "select/13_I_Like_It_(with_Bad_Bunny_&_J_Balvin)_Cardi_B.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Think I Like It",
+      "artist": "Boston",
+      "has_synced": true,
+      "path": "select/14_I_Think_I_Like_It_Boston.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Think I Like It",
+      "artist": "Fake Blood feat. Don Diablo",
+      "has_synced": true,
+      "path": "select/15_I_Think_I_Like_It_Fake_Blood_feat._Don_Diablo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Think I Like It",
+      "artist": "Fake Blood",
+      "has_synced": true,
+      "path": "select/16_I_Think_I_Like_It_Fake_Blood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Like It",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_I_Like_It_Kvi_Baba.txt"
+    }
+  ]
+}
